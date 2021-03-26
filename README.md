@@ -1,2 +1,1 @@
-# calc
-calculadora básica
+# calculator
